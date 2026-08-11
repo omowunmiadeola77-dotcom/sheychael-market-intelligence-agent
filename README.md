@@ -20,14 +20,14 @@ Below is the execution pipeline handling query parsing, database lookups, and di
 ### 2. User & Operational Interface (Frontend Workflows)
 Vendor input screens, dashboard interface, and client-facing workflow layout:
 
-![Frontend Interface 1](./Screenshot%20(369).png)
-![Frontend Interface 2](./Screenshot%202026-08-11%20111225.png)
+![Frontend Interface 1](./Screenshot%202026-08-11%20111225.png)
+![Frontend Interface 2](./Screenshot%20(369).png)
 *Figure 2: Vendor input screens and operational interface.*
 
 ### 3. Live Chatbot & Prompt Execution
 The agent operates under custom system prompt constraints to enforce Sheychael's brand tone, operational rules, and accurate price matching:
 
-![Chatbot Interaction 1](./Screenshot%20(355).png)
+![Chatbot Interaction 1](./Screenshot%20(357).png)
 ![Chatbot Interaction 2](./Screenshot%20(356).png)
 *Figure 3: Live interactions displaying wholesale price comparisons and query handling.*
 
@@ -42,5 +42,4 @@ The agent operates under custom system prompt constraints to enforce Sheychael's
 
 ## 🔒 Security & Data Hygiene
 * All API credentials and tokens have been abstracted into environment variables.
-* Sample datasets contain zero live or proprietary client information.
 * Sample datasets contain zero live or proprietary client information.
